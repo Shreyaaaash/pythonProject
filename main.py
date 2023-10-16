@@ -77,3 +77,5 @@ class TySpeedGUI:
 
 
 TySpeedGUI()
+
+#again edited by puWun
