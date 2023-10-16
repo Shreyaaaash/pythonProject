@@ -77,3 +77,4 @@ class TySpeedGUI:
 
 
 TySpeedGUI()
+look at me where she wanna be call me freakyt
